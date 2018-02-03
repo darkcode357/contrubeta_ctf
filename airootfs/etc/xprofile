@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+VBoxClient-all &
+feh --bg-scale /home/dojo_ctf/wallpaper/198967.jpg
